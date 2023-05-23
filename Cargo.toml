@@ -1,0 +1,13 @@
+[package]
+name = "doc-sql"
+description = "(Under development) A distributed document database with sql query support."
+version = "0.0.3"
+edition = "2021"
+authors = ["Palash Kanti Kundu"]
+readme = "README.md"
+repository = "https://github.com/Palash90/doc-sql"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
